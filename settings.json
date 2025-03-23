@@ -1,0 +1,26 @@
+{
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "cSpell.words": [
+    "camelcase",
+    "consola",
+    "Elio",
+    "geoadd",
+    "georadius",
+    "headsign",
+    "hmset",
+    "ILIKE",
+    "luxon",
+    "moveend",
+    "ontime",
+    "Openchange",
+    "papaparse",
+    "popupclose",
+    "popupopen",
+    "Struyf's",
+    "tailwindcss",
+    "tempy",
+    "timepoint",
+    "zoomend"
+  ],
+  "tailwindCSS.classAttributes": [".*Classes", "className"]
+}
